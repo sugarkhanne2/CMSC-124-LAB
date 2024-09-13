@@ -1,2 +1,3 @@
 # CMSC-124-LAB
-This is my activity lab 3
+I am editing the README file. Adding some more details about the project description.
+
